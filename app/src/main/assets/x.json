@@ -1,0 +1,123 @@
+{
+  "success": 1,
+  "message": "success",
+  "status": true,
+  "data": {
+    "G3Q_Video_Call_by_Sneh_Developer_appId": "1",
+    "G3Q_Video_Call_by_Sneh_Developer_appsName": "Video Call 2",
+    "G3Q_Video_Call_by_Sneh_Developer_pkgName": "g3q.quiz.gujarat.answers.test",
+    "G3Q_Video_Call_by_Sneh_Developer_privacyLink": "https://galleriesapp.blogspot.com/2023/12/privacy-policy.html",
+    "G3Q_Video_Call_by_Sneh_Developer_updateDialog": "0",
+    "G3Q_Video_Call_by_Sneh_Developer_verCode": "1",
+
+    "G3Q_Video_Call_by_Sneh_Developer_adShow_Sts": "1",
+    "G3Q_Video_Call_by_Sneh_Developer_appOpen_Sts": "0",
+    "G3Q_Video_Call_by_Sneh_Developer_inter_Sts": "1",
+    "G3Q_Video_Call_by_Sneh_Developer_back_Sts": "0",
+    "G3Q_Video_Call_by_Sneh_Developer_native_Sts": "0",
+    "G3Q_Video_Call_by_Sneh_Developer_banner_Sts": "0",
+
+    "G3Q_Video_Call_by_Sneh_Developer_forwardClick": "0",
+    "G3Q_Video_Call_by_Sneh_Developer_backClick": "0",
+    "G3Q_Video_Call_by_Sneh_Developer_comboClick": "0",
+
+    "G3Q_Video_Call_by_Sneh_Developer_nativeBigAd": "1",
+    "G3Q_Video_Call_by_Sneh_Developer_nativeBannerAd": "1",
+    "G3Q_Video_Call_by_Sneh_Developer_onResumeNativeShow": "0",
+
+    "G3Q_Video_Call_by_Sneh_Developer_appOpenAdId": "",
+    "G3Q_Video_Call_by_Sneh_Developer_bannerAdId": "",
+    "G3Q_Video_Call_by_Sneh_Developer_interstitialAdId": "",
+    "G3Q_Video_Call_by_Sneh_Developer_nativeAdId": "",
+
+    "G3Q_Video_Call_by_Sneh_Developer_fb_adshowStatus": "0",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_interstitialId_1": "",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_interstitialId_2": "",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_interstitialId_3": "",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_interstitialId_4": "",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_interstitialId_5": "",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_interstitialId_6": "",
+
+    "G3Q_Video_Call_by_Sneh_Developer_fb_nativeId_1": "",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_nativeId_2": "",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_nativeId_3": "",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_nativeId_4": "",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_nativeId_5": "",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_nativeId_6": "",
+
+    "G3Q_Video_Call_by_Sneh_Developer_fb_bannerId_1": "",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_bannerId_2": "",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_bannerId_3": "",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_bannerId_4": "",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_bannerId_5": "",
+    "G3Q_Video_Call_by_Sneh_Developer_fb_bannerId_6": "",
+
+    "G3Q_Video_Call_by_Sneh_Developer_customAd_Sts": "1",
+    "G3Q_Video_Call_by_Sneh_Developer_customAppOpen_Sts": "0",
+    "G3Q_Video_Call_by_Sneh_Developer_customInterstitial_Sts": "1",
+    "G3Q_Video_Call_by_Sneh_Developer_customBack_Sts": "0",
+    "G3Q_Video_Call_by_Sneh_Developer_customNativeBanner_Sts": "0",
+    "G3Q_Video_Call_by_Sneh_Developer_Custom_close_ad": "0",
+
+    "G3Q_Video_Call_by_Sneh_Developer_ad_nativeTAG": "#FFAB00",
+    "G3Q_Video_Call_by_Sneh_Developer_ad_nativebutton": "#000000",
+    "G3Q_Video_Call_by_Sneh_Developer_ad_nativebg": "#F7F0F2",
+    "G3Q_Video_Call_by_Sneh_Developer_ad_nativetitle": "#020202",
+    "G3Q_Video_Call_by_Sneh_Developer_ad_nativedescription": "#646464",
+    "G3Q_Video_Call_by_Sneh_Developer_native_spacebox": "1",
+    "G3Q_Video_Call_by_Sneh_Developer_native_spacebox_color": "#FFFFFF",
+    "G3Q_Video_Call_by_Sneh_Developer_admob_ad_dailog": "1",
+    "G3Q_Video_Call_by_Sneh_Developer_app_open_ad_sec": "5000",
+
+    "G3Q_Video_Call_by_Sneh_Developer_headerview": "1",
+    "G3Q_Video_Call_by_Sneh_Developer_HeaderLink": "https://908.game.qureka.com/intro/question",
+    "G3Q_Video_Call_by_Sneh_Developer_qurekaHeaderImagelink": "https://royalappsclub.com/Gameicon/qureka_gif%20(1).gif",
+
+    "G3Q_Video_Call_by_Sneh_Developer_notification_status": "1",
+    "G3Q_Video_Call_by_Sneh_Developer_notification_link": "http://decodeking.com/HappyNewYear/mandi/New-Video-Call-2/notify/",
+
+    "G3Q_Video_Call_by_Sneh_Developer_termScreen": "0",
+    "G3Q_Video_Call_by_Sneh_Developer_countryScreen": "0",
+    "G3Q_Video_Call_by_Sneh_Developer_exitScreen": "1",
+    "G3Q_Video_Call_by_Sneh_Developer_exitNative_sts": "1",
+    "ViewPager_Inter_Counter": "0",
+
+    "videoCall_Incoming_Welcome": "1",
+    "videoCall_Incoming_Counter": "5",
+    "videoCall_IsLongApp": "1",
+    "videoCall_OnOff": "1",
+    "hotvideoLink1": "http://decodeking.com/HappyNewYear/mandi/New-Video-Call/hotvideos2/xx1.mp4",
+    "hotvideoLink2": "http://decodeking.com/HappyNewYear/mandi/New-Video-Call/hotvideos2/xx2.mp4",
+    "InApp_Mode": "1",
+    "InApp_Price_Gold": "150",
+    "InApp_Price_Silver": "70",
+    "InApp_Price_Bronze": "30",
+    "InApp_Upi_Id": "mab.037323047560032@axisbank",
+    "InApp_Upi_Name": "Lulu Media LLC",
+    "InApp_Upi_Desc": "tag_",
+
+
+    "G3Q_Video_Call_by_Sneh_Developer_customAdData": [
+      {
+        "G3Q_Video_Call_by_Sneh_Developer_cust_id": "2",
+        "G3Q_Video_Call_by_Sneh_Developer_cust_name": "predchamp",
+        "G3Q_Video_Call_by_Sneh_Developer_cust_url": "https://908.game.predchamp.com/intro",
+        "G3Q_Video_Call_by_Sneh_Developer_cust_appopen_image": "https://royalappsclub.com/watchearnapp/customdata/6/frame_6.png",
+        "G3Q_Video_Call_by_Sneh_Developer_cust_interstitial_image": "https://royalappsclub.com/watchearnapp/customdata/6/mgl_interstitial_6.png",
+        "G3Q_Video_Call_by_Sneh_Developer_cust_small_native_image": "https://royalappsclub.com/watchearnapp/customdata/6/mgl_small_native_6.png",
+        "G3Q_Video_Call_by_Sneh_Developer_cust_native_image": "https://royalappsclub.com/watchearnapp/customdata/6/mgl_native_6.png",
+        "G3Q_Video_Call_by_Sneh_Developer_cust_bigBanner_image": "https://royalappsclub.com/watchearnapp/customdata/6/mgl_native_6.png"
+      },
+      {
+        "G3Q_Video_Call_by_Sneh_Developer_cust_id": "1",
+        "G3Q_Video_Call_by_Sneh_Developer_cust_name": "Qureka",
+        "G3Q_Video_Call_by_Sneh_Developer_cust_url": "https://908.game.qureka.com/intro/question",
+        "G3Q_Video_Call_by_Sneh_Developer_cust_appopen_image": "https://royalappsclub.com/watchearnapp/customdata/5/frame_5.png",
+        "G3Q_Video_Call_by_Sneh_Developer_cust_interstitial_image": "https://royalappsclub.com/watchearnapp/customdata/5/mgl_interstitial_5.png",
+        "G3Q_Video_Call_by_Sneh_Developer_cust_small_native_image": "https://royalappsclub.com/watchearnapp/customdata/5/mgl_small_native_5.png",
+        "G3Q_Video_Call_by_Sneh_Developer_cust_native_image": "https://royalappsclub.com/watchearnapp/customdata/5/mgl_native_5.png",
+        "G3Q_Video_Call_by_Sneh_Developer_cust_bigBanner_image": "https://royalappsclub.com/watchearnapp/customdata/5/mgl_native_5.png"
+      }
+    ]
+  }
+}
